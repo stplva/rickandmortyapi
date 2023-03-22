@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rickandmortyapi/static/css/main.a4586392.css",
-    "main.js": "/rickandmortyapi/static/js/main.e599fbb1.js",
+    "main.js": "/rickandmortyapi/static/js/main.c795a527.js",
     "static/media/roboto-all-400-normal.woff": "/rickandmortyapi/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
     "static/media/roboto-latin-400-normal.woff2": "/rickandmortyapi/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/rickandmortyapi/static/media/roboto-cyrillic-ext-400-normal.493afe7ae8ecfe268800.woff2",
@@ -12,10 +12,10 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/rickandmortyapi/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
     "index.html": "/rickandmortyapi/index.html",
     "main.a4586392.css.map": "/rickandmortyapi/static/css/main.a4586392.css.map",
-    "main.e599fbb1.js.map": "/rickandmortyapi/static/js/main.e599fbb1.js.map"
+    "main.c795a527.js.map": "/rickandmortyapi/static/js/main.c795a527.js.map"
   },
   "entrypoints": [
     "static/css/main.a4586392.css",
-    "static/js/main.e599fbb1.js"
+    "static/js/main.c795a527.js"
   ]
 }
