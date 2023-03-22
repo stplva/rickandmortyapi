@@ -3,11 +3,11 @@ import App from '../App'
 import Container from '@mui/material/Container'
 import CardSolo from './Cards/CardSolo'
 import Navbar from './Navbar/Navbar'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 
 const Router = () => {
   return(
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Container maxWidth="md">
           <Navbar />
@@ -18,7 +18,7 @@ const Router = () => {
           </Routes>
         </Container>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
